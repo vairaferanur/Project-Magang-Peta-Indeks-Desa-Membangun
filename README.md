@@ -1,4 +1,4 @@
-# Project-Magang-Peta-Indeks-Desa-Membangun
+# Peta-Indeks-Desa-Membangun-Kabupaten-Purwakarta
 Penyusunan peta Indeks Desa Membangun (IDM) sebagai visualisasi status pembangunan desa.
 
 ## Deskripsi
